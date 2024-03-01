@@ -1,5 +1,6 @@
 {
   "name": "simple-page",
+  "packageManager": "yarn@1.22.19",
   "private": true,
   "version": "0.0.0",
   "type": "module",
